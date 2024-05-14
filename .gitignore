@@ -1,0 +1,6 @@
+.venv/
+.idea/
+__pycache__/
+tasks.db
+__init__.py
+.env

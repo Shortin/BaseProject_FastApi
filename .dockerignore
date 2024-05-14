@@ -1,0 +1,6 @@
+venv/ 
+.gitignore
+.idea/
+__pycache__/
+tasks.db
+.dockerignore
